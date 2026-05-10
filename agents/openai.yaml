@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meeting Minutes from Audio"
+  short_description: "Turn meeting audio into structured minutes"
+  default_prompt: "Use $meeting-minutes-from-audio to transcribe this meeting audio and produce structured meeting minutes."
